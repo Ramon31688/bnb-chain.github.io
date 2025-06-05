@@ -13,7 +13,12 @@ URL:
 
 - **Mainnet**: [https://www.bnbchain.org/en/token-recovery](https://www.bnbchain.org/en/token-recovery)
 
-## Steps
+## Steps![Screenshot_20250307_154120_com android chrome](https://github.com/user-attachments/assets/4a8c8794-3d81-40dd-9635-551ab44124ac)
+![Screenshot_20250308_114900_com cj charge joy](https://github.com/user-attachments/assets/a2da332d-b7d4-4151-b927-37fad8bad86a)
+![Screenshot_20250427_041339_com android chrome](https://github.com/user-attachments/assets/7927e6ab-e975-4824-9d07-0a46163e4ccb)
+![Screenshot_20250427_041347_com android chrome](https://github.com/user-attachments/assets/fb099cb1-7834-4738-9dac-5427e87b87ab)
+![Screenshot_20250427_152113_com google android googlequicksearchbox](https://github.com/user-attachments/assets/9d4a44c7-e553-4adb-9c4e-806d07a3cea6)
+
 
 ### Step 1: Connect to your BC wallet.
 
